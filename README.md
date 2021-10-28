@@ -5,7 +5,9 @@ My Portfolio
 Trivia Application
 https://dimilafl.github.io/
 
-eCommerce Application
+eCommerce Application -
+
+An E-Commerce site which users can post items to sell or buy items that already posted. It was developed with React.js + React-Bootstrap + Node.js + Express.js + MongoDB + Mongoose + Axios
 https://new-t-shirt.herokuapp.com/
 
 React Stock-Analysis Application
